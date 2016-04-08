@@ -1,3 +1,7 @@
+Bibiliography auto downloaded from Google Scholar using [scholar.py](https://github.com/ckreibich/scholar.py)
+
+> python scholar.py --author "tom diethe" --citation bt > assets/tdiethe_google_scholar.bib
+
 Website developed using [Merlin](ttps://github.com/halibegic/merlin/), template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
 ### Credits
