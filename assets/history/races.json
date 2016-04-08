@@ -293,7 +293,7 @@
     "Distance": "50k",
     "Entered?": "Yes",
     "Result": "1:34:39",
-    "Position": "56/71 (teams)"
+    "Position": "56/71"
   },
   {
     "Date": "17-Apr-2008",
@@ -713,11 +713,11 @@
   },
   {
     "Date": "16-Oct-2011",
-    "Event": "<a href='http://barcelonatriathlon.com/'>Barcelona Triathlon</a>",
+    "Event": "<a href='http://barcelonatriathlon.com/'>Barcelona Triathlon (Elite Wave)</a>",
     "Distance": "1.5k/33k/10k",
     "Entered?": "Yes",
     "Result": "2:09:21",
-    "Position": "113/336 (Elite Wave)"
+    "Position": "113/336"
   },
   {
     "Date": "12-Nov-2011",
@@ -1021,7 +1021,7 @@
     "Distance": "40k",
     "Entered?": "Yes",
     "Result": "01:06:20",
-    "Position": 0
+    "Position": "??/??"
   },
   {
     "Date": "01-Jun-2014",
@@ -1061,7 +1061,7 @@
     "Distance": "22k",
     "Entered?": "Yes",
     "Result": "01:56:35",
-    "Position": "44/203Date"
+    "Position": "44/203"
   },
   {
     "Date": "25-Jan-2015",
@@ -1108,16 +1108,16 @@
     "Event": "<a href='http://www.velothon-wales.co.uk/en/'>Velothon Wales</a>",
     "Distance": "140k",
     "Entered?": "Yes",
-    "Result": "a",
-    "Position": "a"
+    "Result": "04:14:41",
+    "Position": "269/8774"
   },
   {
     "Date": "28-Jun-2015",
     "Event": "<a href='http://www.ironman.com/triathlon/events/emea/ironman-70.3/uk.aspx'>Ironman 70.3 UK</a>",
     "Distance": "1.9k/90k/21.1k",
     "Entered?": "Yes",
-    "Result": "a",
-    "Position": "a"
+    "Result": "05:54:45",
+    "Position": "280/1562"
   },
   {
     "Date": "23-Aug-2015",

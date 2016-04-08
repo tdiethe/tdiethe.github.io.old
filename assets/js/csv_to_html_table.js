@@ -34,7 +34,7 @@ function init_table(options) {
         $('#my-table tbody').append(row_html);
       }
 
-      $("#my-table").DataTable(datatables_options);
+      $("#my-table").dataTable(datatables_options);
 
       if (allow_download)
         $("#" + el).append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");

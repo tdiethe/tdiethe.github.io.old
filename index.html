@@ -409,7 +409,7 @@
             element: 'races',
             allow_download: true,
             csv_options: {separator: ',', delimiter: '"'},
-            datatables_options: {"paging": false}
+            datatables_options: {"paging": false, "order": [[0, 'desc']], "pageLength": 25}
         });
     });
 </script>
