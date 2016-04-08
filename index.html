@@ -407,9 +407,15 @@
         init_table({
             csv_path: 'assets/history/races.csv',
             element: 'races',
-            allow_download: true,
+            allow_download: false,
             csv_options: {separator: ',', delimiter: '"'},
-            datatables_options: {"paging": false, "order": [[0, 'desc']], "pageLength": 25}
+            datatables_options: {
+                "search": false,
+                "info": false,
+                "paging": false,
+//                "order": [[0, 'desc']],
+                "iDisplayLength": 25
+            }
         });
     });
 </script>
