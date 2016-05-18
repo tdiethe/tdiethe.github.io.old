@@ -1126,5 +1126,45 @@
     "Entered?": "Yes",
     "Result": "4:49:03",
     "Position": "152/650"
-  }
+  },
+  {
+      "Date": "15-May-2016",
+      "Event": "<a href='http://www.greatrun.org/'>Bristol 10k</a>",
+      "Distance": "10k",
+      "Entered?": "Yes",
+      "Result": "41:20",
+      "Position": "400/9675"
+  },
+    {
+    "Date": "22-May-2016",
+    "Event": "<a href='http://www.velothon-wales.co.uk/en/'>Velothon Wales</a>",
+    "Distance": "140k",
+    "Entered?": "Yes",
+    "Result": "",
+    "Position": ""
+  },
+    {
+    "Date": "5-Jun-2016",
+    "Event": "<a href='http://www.tribristol.org//'>Bristol Triathlon</a>",
+    "Distance": "1.5k/40k/10k",
+    "Entered?": "Yes",
+    "Result": "",
+    "Position": ""
+  },
+    {
+    "Date": "31-July-2016",
+    "Event": "<a href='http://www.communitymultisport.org/our-events/belfast-titanic-triathlon/'>Belfast Titanic Triathlon</a>",
+    "Distance": "1.5k/38.6k/10k",
+    "Entered?": "Yes",
+    "Result": "",
+    "Position": ""
+  },
+    {
+    "Date": "4-Sep-2016",
+    "Event": "<a href='http://www.outdoorswimmingsociety.com/events?s&id=101'>Dart 10k swim</a>",
+    "Distance": "10k",
+    "Entered?": "Yes",
+    "Result": "",
+    "Position": ""
+  } 
 ]
